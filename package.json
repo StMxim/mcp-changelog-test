@@ -1,0 +1,19 @@
+{
+  "name": "mcp-changelog",
+  "version": "1.0.0",
+  "description": "Инструмент для генерации changelog на основе Git",
+  "main": "changelog.js",
+  "scripts": {
+    "changelog": "node changelog.js"
+  },
+  "keywords": [
+    "changelog",
+    "git",
+    "mcp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+} 
